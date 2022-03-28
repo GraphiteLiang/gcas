@@ -14,15 +14,25 @@
 
 ## 接口列表
 应付款项	/api/gcas/allcreditpayable
+
 获取应付款明细	待定
+
 获取应收款项	/api/gcas/allcreditreceivable
+
 获取流水记录（包括出账记录和aa转账记录）	/api/gcas/statementquery
+
 获取收到的信息	/api/gcas/mailquery
+
 获取成员信息	/api/gcas/userquery
 
 添加出账记录	/api/gcas/recordinput
+
 添加成员	/api/gcas/userinput
+
 添加付款码	/api/gcas/receiptcodeinput
+
 情况款项记录	/api/gcas/recordtruncate
+
 登入	/api/gcas/login
+
 登出	/api/gcas/logout
